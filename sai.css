@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(239, 236, 231);
+}
+
+
+
+img{
+    height: 50vh;
+    margin: 50px;  
+}
+.mar{
+    margin-right: 50px;
+    color: green;
+    font-size: x-large;
+}
+.font{
+    color: green;
+    font-size: xx-large;
+}
